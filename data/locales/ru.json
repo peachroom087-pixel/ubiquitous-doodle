@@ -1,0 +1,10 @@
+{
+  "auth.login_prompt": "Введите логин: ",
+  "auth.language_prompt": "Выберите язык (ru/en): ",
+  "main_menu.welcome": "Добро пожаловать, {username}!",
+  "main_menu.exit": "0. Выход",
+  "main_menu.choice_prompt": "Ваш выбор: ",
+  "error.invalid_login": "Неверный формат логина. Логин должен содержать 3-20 символов, только латинские буквы, цифры и подчеркивание.",
+  "error.invalid_language": "Неверный выбор языка. Пожалуйста, введите 'ru' или 'en'.",
+  "error.invalid_menu_choice": "Неверный выбор меню. Пожалуйста, введите 0 для выхода."
+}

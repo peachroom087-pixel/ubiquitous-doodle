@@ -1,0 +1,10 @@
+{
+  "auth.login_prompt": "Enter login: ",
+  "auth.language_prompt": "Choose language (ru/en): ",
+  "main_menu.welcome": "Welcome, {username}!",
+  "main_menu.exit": "0. Exit",
+  "main_menu.choice_prompt": "Your choice: ",
+  "error.invalid_login": "Invalid login format. Login must be 3-20 characters, only lowercase letters, digits, and underscore.",
+  "error.invalid_language": "Invalid language choice. Please enter 'ru' or 'en'.",
+  "error.invalid_menu_choice": "Invalid menu choice. Please enter 0 to exit."
+}
