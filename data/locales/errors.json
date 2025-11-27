@@ -1,0 +1,5 @@
+{
+  "error.db_not_found": "Database file not found",
+  "error.missing_locale": "Locale file missing",
+  "error.already_running": "Application is already running"
+}
